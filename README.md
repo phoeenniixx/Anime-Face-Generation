@@ -2,10 +2,15 @@
 
 Anime face generation using DCGAN (Deep Convolutional Generative Adversarial Network) involves training a generator and discriminator model to generate realistic anime faces. The generator creates synthetic anime faces, while the discriminator learns to distinguish between real and generated faces. 
 
-Images generated at 0 epoch
+### Images generated at 0 epoch (on Tensorboard)
+
+
 ![WhatsApp Image 2024-03-10 at 04 09 11_74f698e4](https://github.com/phoeenniixx/Anime-Face-Generation/assets/116151399/b5c65e8e-d757-4262-b293-1a9e0e2ae223)
 
-Final images:
+### Final images:
+
+
+##### (on Tensorboard)
 ![image](https://github.com/phoeenniixx/Anime-Face-Generation/assets/116151399/b3b843d7-7ee1-4949-8d84-5ad828728b37)
 
 ![image](https://github.com/phoeenniixx/Anime-Face-Generation/assets/116151399/33a45961-cce6-4095-a343-de8a685b6e49)
